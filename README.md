@@ -2,8 +2,6 @@
 
 A simple task management web application that allows users to add, view, and manage their daily tasks. Built using **Node.js**, **Express.js**, **MongoDB**, and **EJS**.
 
----
-
 ## 🚀 Features
 
 - Add new tasks  
@@ -19,11 +17,10 @@ A simple task management web application that allows users to add, view, and man
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (via Mongoose)  
 
----
 
 ## ▶️ Getting Started
 
-### 📦 Clone the repository:
+📦 Clone the repository:
 
 ```bash
 git clone https://github.com/narsing64/Todo_list.git
